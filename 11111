@@ -1,0 +1,7 @@
+eco "Repo1234" . LEADME.md
+git init
+git añadir README.md
+git commit -m "primer commit"
+rit rama -M principal
+git remote add origin https://github.com/JUSONTIME88/Repo1234.git
+git push -u origen principal
